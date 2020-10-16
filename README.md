@@ -1,7 +1,7 @@
 # First use
 
 ```
-npx meta git clone git@github.com:CloudNativeEntrepreneur/meta.git
+npx meta git clone git@github.com:insecureit/meta.git
 ```
 
 # `make onboard`
